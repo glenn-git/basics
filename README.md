@@ -9,7 +9,7 @@
 
 # Introduction to GitHub
 
-_Get started using GitHub in less than an hour._
+_Get started using GitHub in less than an hour + Edited by Glenn._
 
 </header>
 
@@ -25,8 +25,11 @@ _Get started using GitHub in less than an hour._
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
+**What is Git & GitHub?**: Git is version control system to manage code and keep track of it. GitHub is a cloud-based hosting / collaboration platform for versioning / manage Git repositories: _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_.
+Share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+<br>IntelliJ: VCS. Create git repository / share to github. To remove Git: File > Settings > Version Control > Directory mapping. delete hidden .git folder in Project.
+
 
 **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
 
