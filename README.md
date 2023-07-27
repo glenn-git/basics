@@ -28,16 +28,16 @@ _Welcome to "Introduction to GitHub"! :wave:_
 **What is Git & GitHub?**: Git is version control system to manage code and keep track of it. GitHub is a cloud-based hosting / collaboration platform for versioning / manage Git repositories: _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_.
 Share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
-<br>IntelliJ: VCS. Create git repository / share to github. To remove Git: File > Settings > Version Control > Directory mapping. delete hidden .git folder in Project.
+<br>IntelliJ: VCS. Create git repository / share to github. **To remove Git**: File > Settings > Version Control > Directory mapping. delete hidden .git folder in Project.
 
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+**What is a repository?**: _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. Tracks versions of files and folders. More info by GitHub Docs: "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)".
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+**What is a branch?**: _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default has 1 "definitive" branch named `main`, and creating additional branches allows to copy `main` branch of your repository and safely make changes without disrupting main project. People use branches to work on specific features without affecting any other parts of the project.
 
 Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+**What is a profile README?**: _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
 
 ![profile-readme-example](/images/profile-readme-example.png)
 
