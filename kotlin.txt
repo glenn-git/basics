@@ -1,3 +1,4 @@
+RANDOM
 import kotlin.random.Random
 val arr = IntArray(5) { 42 }
 // Array of int of size 5 with values [42, 42, 42, 42, 42]
