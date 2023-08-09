@@ -1,0 +1,2 @@
+List can store elements of different types.
+Arrays can store elements only of the same type.
