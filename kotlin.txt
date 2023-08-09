@@ -12,3 +12,7 @@ randomValues != nextValues is true
 
 REFERENCE / RETRIEVE
 elementAt(3)
+
+RENAME
+position caret onto var name. Shift F6
+file names -> Refractor > Rename
