@@ -9,3 +9,6 @@ println("randomValues != nextValues is ${randomValues != nextValues}")
 [15, 76, 57, 84, 40, 72, 79, 6, 11, 54]
 [58, 47, 27, 45, 49, 17, 92, 54, 81, 23]
 randomValues != nextValues is true
+
+REFERENCE / RETRIEVE
+elementAt(3)
