@@ -21,5 +21,5 @@ https://docs.oracle.com/en/java/javase/18/docs/api/index.html
 _Installation_
 http://java.oracle.com/
 https://docs.oracle.com/en/java/javase/20/index.html
-
-https://www.jetbrains.com/idea/
+kotlin https://www.jetbrains.com/idea/
+https://developer.android.com/studio
