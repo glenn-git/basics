@@ -16,4 +16,5 @@ elementAt(3)
 
 RENAME
 position caret onto var name. Shift F6
-file names -> Refractor > Rename
+file names -> right click Refractor > Rename
+folder names on github -> next to edit, down arrow open with github dev. rename
