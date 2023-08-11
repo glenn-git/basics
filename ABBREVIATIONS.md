@@ -36,5 +36,28 @@ ALTCODES
 |£|Pound|Alt+0163|
 |·|Middle dot|Alt+250|
 ◁ △ ▽ ▷
+
+C#
+```csharp
+// Correct examples. Avoid Hungarian notation or any other type identification in identifiers
+int counter; //not icounter;
+string name; //not strName;
+
+// camelCase
+Local variables
+Method arguments
+
+// _camelCase
+Field name Private
+
+// PascalCase
+ClassName
+Constructor
+Field name Public
+Method
+Namespace
+```
+
+
 ## REFERENCES
 [C# Naming Conventions notes](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
