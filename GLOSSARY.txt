@@ -8,4 +8,4 @@ DIAGRAMS
 # protected Superclass/Base/Parent class ◁- Subclass/Derived/Child class
 ~ package
 / derived
-e.g. #model : String, <<get/set>> -length: Double
+e.g. #model : String, <<get/set>> -lengthHull: Double, +DisplayBoat()
