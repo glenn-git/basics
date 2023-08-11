@@ -32,4 +32,7 @@ ALTCODES
 |½|Half|Alt+0189|
 |¼|Quarter|Alt+0188|
 |¾|Fraction 3/4|Alt+0190|
+|π|Pi|Alt+995|
 |£|Pound|Alt+0163|
+|·|Middle dot|Alt+250|
+◁ △ ▽ ▷
