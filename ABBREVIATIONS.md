@@ -43,21 +43,29 @@ C#
 int counter; //not icounter;
 string name; //not strName;
 
-// camelCase
+// camelCase - only for parameter names
 Local variables
 Method arguments
-
+Parameter e.g. public static int ToInt32(string value);
 // _camelCase
 Field name Private
 
-// PascalCase
+// PascalCase - all identifiers/public member/type/namespace names with multiple words except parameter names. do not use underscore to differentiate words.
 ClassName
 Constructor
-Field name Public
+Enum value e.g. public enum FileMode { Append, ... }
+Field name Public e.g. public class MessageQueue { public static readonly TimeSpan InfiniteTimeout; } public struct UInt32 {public const Min = 0; }
+Interface
 Method
+Property
 Namespace
+Type
+
+// Special case for 2 letters acronyms
+IOStream
 ```
 
 
 ## REFERENCES
 [C# Naming Conventions notes](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
+[microsoft naming convention](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/capitalization-conventions)
