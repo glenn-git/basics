@@ -26,8 +26,10 @@ Style	Syntax	Keyboard shortcut	Example	Output
 <sup>Superscript</sup>	<sup> </sup><br>
 
 ALTCODES
-— Em dash, Alt+0151\
-½ Half, Alt+0189\
-¼ Quarter, Alt+0188\
-¾ Fraction 3/4, Alt+0190\
-£Pound, Alt+0163\
+|Symbol|Description|AltCodes|
+|---|---|---|
+|—|Em dash|Alt+0151|
+|½|Half|Alt+0189|
+|¼|Quarter|Alt+0188|
+|¾|Fraction 3/4|Alt+0190|
+|£|Pound|Alt+0163|
