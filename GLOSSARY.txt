@@ -1,2 +1,3 @@
+COLLECTION
 List can store elements of different types. Cannot directly handle math.
 Arrays can store elements only of the same type. Very compact. More efficient for storing large data. Great for numerical operations e.g. divide each element of array by same number with 1 line.
